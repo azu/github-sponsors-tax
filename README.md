@@ -8,7 +8,7 @@
 
 :warning: このドキュメントは専門家のレビューを受けていないので、間違っている可能性があります :warning:
 
-- [Issue作成はこちらから](https://github.com/azu/github-sponsors-tax/issues/new)
+- [Issue作成はこちらから](https://github.com/azu/github-sponsors-tax/issues/new)、または直接Pull Requestで修正してもらって問題ありません
 
 ## 前提条件
 
