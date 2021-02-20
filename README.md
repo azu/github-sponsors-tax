@@ -4,7 +4,9 @@
 
 :warning: 確定申告の内容は人によって異なるため、詳細は税理士や所轄税務署で確認してください :warning:
 
-:warning: このドキュメントは専門家のレビューを受けていないので、間違っている可能性があります。 [Issue作成はこちらから](https://github.com/azu/github-sponsors-tax/issues) :warning:
+:warning: このドキュメントは専門家のレビューを受けていないので、間違っている可能性があります :warning:
+
+- [Issue作成はこちらから](https://github.com/azu/github-sponsors-tax/issues/new)
 
 ## 前提条件
 
