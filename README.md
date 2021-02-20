@@ -19,8 +19,8 @@ Github Sponsporsの設定方法は次を参照してください。
 
 GitHub Sponsorsで得た収入は、一般的には次のどちらかに分類するのが妥当だと考えられます。
 
-- 開業届を出している場合: [事業所得](https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1350.htm)
 - 開業届を出していない場合: [雑所得](https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1500.htm)
+- 開業届を出している場合: [事業所得](https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1350.htm)
 
 参考:
 
