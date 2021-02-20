@@ -2,6 +2,8 @@
 
 日本におけるGitHub Sponsorsに関する収入の確定申告に関するドキュメントです。
 
+:memo: 令和2年分 確定申告における情報です
+
 :warning: 確定申告の内容は人によって異なるため、詳細は税理士や所轄税務署で確認してください :warning:
 
 :warning: このドキュメントは専門家のレビューを受けていないので、間違っている可能性があります :warning:
@@ -34,12 +36,16 @@ GitHub Sponsorsで得た収入は、一般的には次のどちらかに分類�
 
 [国税庁 確定申告書等作成コーナー](https://www.keisan.nta.go.jp/kyoutu/ky/sm/top)を使った入力例です。
 
-### 種目
+### 種目(区分)
 
 提供しているコンテンツに依存します。
+
 Sponsors登録の見返りに広告を出しているなら、`その他: 広告収入`など
 
-- 参考: [FANBOXの支援金は税務上の「種目」だと何になりますか？ – pixivFANBOX](https://fanbox.pixiv.help/hc/ja/articles/900004208266-FANBOX%E3%81%AE%E6%94%AF%E6%8F%B4%E9%87%91%E3%81%AF%E7%A8%8E%E5%8B%99%E4%B8%8A%E3%81%AE-%E7%A8%AE%E7%9B%AE-%E3%81%A0%E3%81%A8%E4%BD%95%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B-)
+参考
+
+- [副収入などがある方の確定申告｜国税庁](https://www.nta.go.jp/taxes/shiraberu/shinkoku/kakutei/kakutei/fukugyo.htm)
+- [FANBOXの支援金は税務上の「種目」だと何になりますか？ – pixivFANBOX](https://fanbox.pixiv.help/hc/ja/articles/900004208266-FANBOX%E3%81%AE%E6%94%AF%E6%8F%B4%E9%87%91%E3%81%AF%E7%A8%8E%E5%8B%99%E4%B8%8A%E3%81%AE-%E7%A8%AE%E7%9B%AE-%E3%81%A0%E3%81%A8%E4%BD%95%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B-)
 
 ### 業務に該当しますか
 
