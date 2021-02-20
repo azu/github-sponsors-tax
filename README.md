@@ -1,6 +1,6 @@
 # GitHub Sponsorsの確定申告手順
 
-日本におけるGitHub Sponsorsに関する収入を確定申告するためのドキュメントです。
+日本におけるGitHub Sponsorsに関する収入を確定申告に関するドキュメントです。
 
 :warning: 確定申告の内容は人によって異なるため、詳細は税理士や所轄税務署で確認してください :warning:
 
