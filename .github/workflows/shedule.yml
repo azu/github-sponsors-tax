@@ -1,0 +1,20 @@
+name: Schedule Update
+on:
+  schedule:
+    - cron:  '1 1 1 2 *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get year
+        id: date
+        run: |
+          echo "::set-output name=year::$(date '+%Y年の対応')"
+      - name: Create an issue
+        uses: actions-ecosystem/action-create-issue@v1
+        with:
+          github_token: ${{ secrets.github_token }}
+          title: '${{ steps.date.outputs.year }}'
+          body: |
+            ## To do
+            - [ ] 今年の対応をする
