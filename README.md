@@ -9,6 +9,7 @@
 ## 前提条件
 
 - GitHub Sponsors登録時に[W-8BEN](https://www.irs.gov/pub/irs-pdf/iw8ben.pdf)をサブミットしている
+- GitHub Sponsorsとは別に給与収入がある
 - 日本に在住していて日本で確定申告する
 
 Github Sponsporsの設定方法は次を参照してください。
