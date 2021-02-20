@@ -13,7 +13,7 @@
 
 Github Sponsporsの設定方法は次を参照してください。
 
-- [ユーザアカウントに GitHub スポンサーを設定する - GitHub Docs](https://docs.github.com/ja/github/supporting-the-open-source-community-with-github-sponsors/setting-up-github-sponsors-for-your-user-account#submitting-your-tax-information)
+- [ユーザアカウントに GitHub スポンサーを設定する - GitHub Docs](https://docs.github.com/ja/github/supporting-the-open-source-community-with-github-sponsors/setting-up-github-sponsors-for-your-user-account)
 
 ## 所得区分
 
