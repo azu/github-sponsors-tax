@@ -75,7 +75,7 @@ W-8BENをサブミットしている場合、GitHub Sposorsの支払いは源泉
 そのため、源泉徴収税額は0円です
 
 > GitHub は、GitHub Sponsors の支払いについて源泉徴収しません。 スポンサード開発者は、自らの税金を算出して支払う責任を負います。  
-> [GitHub スポンサーの納税情報 - GitHub Docs](https://docs.github.com/ja/github/supporting-the-open-source-community-with-github-sponsors/tax-information-for-github-sponsors)
+> [GitHub スポンサーの納税情報 - GitHub Docs](https://docs.github.com/ja/sponsors/receiving-sponsorships-through-github-sponsors/tax-information-for-github-sponsors)
 
 ### 所得の生ずる場所（全角28文字以内）（ビル名等省略可）
 
