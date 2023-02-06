@@ -2,7 +2,7 @@
 
 日本におけるGitHub Sponsorsに関する収入の確定申告に関するドキュメントです。
 
-:memo: 令和3年分(2021年分) 確定申告における情報です
+:memo: 令和4年分(2022年分) 確定申告における情報です
 
 :warning: 確定申告の内容は人によって異なるため、詳細は税理士や所轄税務署で確認してください :warning:
 
@@ -25,11 +25,16 @@ Github Sponsporsの設定方法は次を参照してください。
 
 GitHub Sponsorsで得た収入は、一般的には次のどちらかに分類するのが妥当だと考えられます。
 
-- 開業届を出していない場合: [雑所得](https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1500.htm)
-- 開業届を出している場合: [事業所得](https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1350.htm)
+- [雑所得](https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1500.htm)
+- [事業所得](https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1350.htm)
+
+2022年から事業所得と雑所得の区分が明確になり、帳簿書類の管理をしている場合は事業所得となります。
+また、事業所得とする場合には基本的には開業届を出している必要があります。
 
 参考:
 
+- <https://www.nta.go.jp/taxes/shiraberu/shinkoku/kakutei/ryuiten.pdf>
+- [2023年（令和4年分）の確定申告の変更点をわかりやすく解説](https://squareup.com/jp/ja/townsquare/changes-in-tax-declaration)
 - [FANBOXの支援金はどの所得区分に該当しますか？また、課税対象ですか？ – pixivFANBOX](https://fanbox.pixiv.help/hc/ja/articles/900004208286-FANBOX%E3%81%AE%E6%94%AF%E6%8F%B4%E9%87%91%E3%81%AF%E3%81%A9%E3%81%AE%E6%89%80%E5%BE%97%E5%8C%BA%E5%88%86%E3%81%AB%E8%A9%B2%E5%BD%93%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B-%E3%81%BE%E3%81%9F-%E8%AA%B2%E7%A8%8E%E5%AF%BE%E8%B1%A1%E3%81%A7%E3%81%99%E3%81%8B-)
 - [税理士ドットコム - \[白色申告\]パトロンサイトなどの支援金の確定申告について](https://www.zeiri4.com/c_5/c_1059/q_58145/)
 
@@ -43,7 +48,8 @@ GitHub Sponsorsで得た収入は、一般的には次のどちらかに分類�
 
 提供しているコンテンツ(Sponsor tiers)に依存します。
 
-Sponsors登録の見返りに広告を出しているなら、`その他: 広告収入`など
+単にSponsorsを募集しているだけなら、`その他: スポンサー`など
+Sponsors登録の見返りに広告を出しているなら、`その他: 広告収入`など。
 
 参考
 
