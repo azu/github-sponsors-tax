@@ -117,6 +117,10 @@ W-8BENをサブミットしている場合、GitHub Sposorsの支払いは源泉
 
 - [ ] Welcome to Pull Request!
 
+## 参考
+
+- [FANBOX確定申告セミナー - YouTube](https://www.youtube.com/watch?v=5jP3wddniDk)
+
 ## License
 
 CC0 1.0 Universal
